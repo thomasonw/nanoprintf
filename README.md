@@ -1,3 +1,10 @@
+Please note: I made this fork simply to have a local archive / stable snapshot.
+PLEASE DO NOT PROPGATE THIS FORK WIDER! USE THE ORIGIONAL ONE!!
+
+
+
+
+
 # nanoprintf
 
 [![Presubmit Checks](https://github.com/charlesnicholson/nanoprintf/workflows/Presubmit%20Checks/badge.svg)](https://github.com/charlesnicholson/nanoprintf/tree/master/.github/workflows) [![](https://img.shields.io/badge/pylint-10.0-brightgreen.svg)](https://www.pylint.org/) [![](https://img.shields.io/badge/license-public_domain-brightgreen.svg)](https://github.com/charlesnicholson/nanoprintf/blob/master/LICENSE)
